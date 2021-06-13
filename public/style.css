@@ -1,0 +1,287 @@
+body {
+  margin: 0;
+  font-family: "Libre Baskerville", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: "LibreBaskerville-Bold";
+  color: #374b5c;
+}
+
+div h1 {
+  font-weight: bolder;
+  margin-bottom: 50px;
+}
+
+.Rectangle-1 {
+  margin: 0;
+  padding: 18.5px 117px 0 139px;
+  background-image: linear-gradient(to bottom, #f1fefe, rgba(241, 254, 254, 0));
+}
+
+a.navbar-brand {
+  width: 148px;
+  height: 56px;
+  /* margin: 0.5px 329px 177px 9.5px; */
+  font-family: LibreBaskerville;
+  font-size: 32px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #374b5c;
+}
+
+.navbar {
+  padding-bottom: 15%;
+}
+
+.navbar-toggler {
+  border-color: transparent;
+}
+
+.nav-item {
+  /* width: 70px; */
+  height: 40px;
+  margin: 0 30px;
+  margin-top: 20px;
+  font-family: LibreBaskerville;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.31;
+  letter-spacing: normal;
+  text-align: center;
+  color: #374b5c;
+}
+
+li:last-child {
+  width: 141px;
+  border-radius: 10px;
+  border: solid 2px #00dbd0;
+}
+
+.btn {
+  width: 220px;
+  height: 54px;
+  margin: 35px 344px 115px 0;
+  padding: 14px;
+  border-radius: 10px;
+  border: none;
+  background-color: #00dbd0;
+  font-weight: bold;
+  color: #f1fefe;
+}
+
+.btn:hover {
+  color: white;
+}
+
+.homepage-flower {
+  position: absolute;
+  z-index: 2;
+  right: 28%;
+  top: 44%;
+}
+.homepage-square {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  top: 45%;
+  right: 15%;
+  border: solid 3px #00dbd0;
+  padding: 45px;
+}
+
+.card {
+  width: 240.7px;
+  height: 279.9px;
+
+  border-radius: 20px;
+}
+
+.Rectangle-2,
+.Rectangle-6 {
+  text-align: center;
+  padding: 7.5% 5% 5%;
+}
+
+.home-heading {
+  font-weight: bold;
+  line-height: 3rem;
+}
+
+.home-text {
+  margin: 0 auto;
+  width: 60%;
+  line-height: 1.7rem;
+  margin-bottom: 3rem;
+}
+
+.Rectangle-3 {
+  text-align: center;
+  padding: 5% 5%;
+  background-color: #fbfefe;
+}
+
+.brand {
+  margin: auto;
+}
+
+.brands {
+  margin-bottom: 4rem;
+}
+
+.Rectangle-4,
+.Rectangle-5 {
+  text-align: center;
+  padding: 5% 5%;
+}
+
+.testimonial-img {
+  border-radius: 100%;
+  margin: 2rem auto;
+  display: block;
+}
+
+.stars {
+  color: #00dbd0;
+  margin: 0.8rem auto;
+}
+
+.testimonial-text {
+  width: 45%;
+  margin: auto;
+  margin-bottom: 1rem;
+  line-height: 2.5rem;
+}
+
+.tab-button {
+  color: #00dbd0;
+  margin: 0 5px;
+}
+
+.leaves-img {
+  position: absolute;
+  top: 270vh;
+  right: 75%;
+  height: 80.813rem;
+}
+
+.form-row,
+.form-col {
+  height: 3rem;
+  padding: 0;
+}
+
+.form-row {
+  margin: 0 auto;
+  width: 40%;
+}
+
+.email-input,
+.subscribe-btn {
+  height: 3.5rem;
+  width: 100%;
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.subscribe-btn {
+  border-radius: 20px;
+}
+
+.email-input {
+  margin-right: 0;
+  border: none;
+}
+
+.email-input:focus {
+  outline: none;
+}
+.Rectangle-5 {
+  margin-top: 7%;
+}
+.Rectangle-6 {
+  margin-bottom: 2%;
+}
+.card-title {
+  color: #00dbd0;
+  font-weight: bold;
+}
+.card-text {
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+}
+.card-link {
+  text-decoration: none;
+  color: #374b5c;
+  font-size: small;
+}
+
+.Rectangle-7 {
+  padding: 0;
+  background-image: url("/img/Group 229.png");
+  height: 300px;
+}
+
+.footer-logo {
+  position: relative;
+  top: 6rem;
+  margin-bottom: 1rem;
+}
+
+.div1 {
+  margin-left: 8rem;
+  display: inline-block;
+  width: 27%;
+  margin-right: 8rem;
+}
+
+.motto {
+  margin-top: 7rem;
+}
+.copyright-text {
+  font-size: small;
+  font-weight: bold;
+}
+
+.div2 {
+  display: inline-block;
+  width: 15%;
+  line-height: 2rem;
+}
+
+.div3 {
+  display: inline-block;
+  width: 15%;
+  line-height: 2rem;
+  position: relative;
+  top: 0;
+}
+.div2 h5 {
+  margin-bottom: 2rem;
+}
+
+.footer-text {
+  color: #ffffff;
+}
+
+.footer-nav {
+  font-weight: lighter;
+  font-size: smaller;
+}
+
+.social-media {
+  margin: 0 10px;
+}
